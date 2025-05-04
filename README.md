@@ -1,23 +1,25 @@
-/* ------------------------------ English ------------------------------ */<br/> 
-
-Hello! I'm Johann — a creative and a curious and strategic mind passionate about technology. I love building stylish & functional web & mobile apps.<br/> 
+<table>
+  <tr>
+    <th>English</th>
+    <th>Français</th>
+  </tr>
+  <tr>
+    <td>Hello! I'm Johann — a creative and a curious and strategic mind passionate about technology. I love building stylish & functional web & mobile apps.<br/> <br/> 
 
 - Based in Canada<br/> 
 - Currently learning: full-stack dev, data analytics <br/> 
 - Goals: Build unique digital projects that inspire, educate, and connect people<br/> 
 
-Let’s connect and build something iconic together ✨<br/> 
-
-/* ------------------------------ Français ------------------------------ */<br/> 
-
-Salut ! Moi c’est Johann — un esprit créatif, curieux et stratégique, passionné par la technologie. J’aime concevoir des applications web et mobiles à la fois élégantes et fonctionnelles.<br/> 
+Let’s connect and build something iconic together ✨<br/> </td>
+    <td>Salut ! Moi c’est Johann — un esprit créatif, curieux et stratégique, passionné par la technologie. J’aime concevoir des applications web et mobiles à la fois élégantes et fonctionnelles.<br/> 
 
 - Basé au Canada<br/> 
 - En apprentissage : développement full-stack, analyse de données<br/>  
 - Objectif : créer des projets digitaux uniques qui inspirent, éduquent et connectent les gens<br/> 
 
-Connectons-nous et construisons quelque chose d’iconique ensemble ✨<br/> 
-
+Connectons-nous et construisons quelque chose d’iconique ensemble ✨<br/> </td>
+  </tr>
+</table>
 
 
 ## Socials:
